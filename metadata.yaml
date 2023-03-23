@@ -1,0 +1,45 @@
+_repo: The-adventures-of-Hatim-Tai-a-romance_70290
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Forbes, Duncan
+    birthdate: 1798
+    deathdate: 1868
+    gutenberg_agent_id: '31675'
+    url: http://www.gutenberg.org/2009/agents/31675
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+  editor:
+    agent_name: Alger, William Rounseville
+    alias: Alger, William R.
+    birthdate: 1822
+    deathdate: 1905
+    gutenberg_agent_id: '8457'
+    url: http://www.gutenberg.org/2009/agents/8457
+description: ''
+gutenberg_issued: '2023-03-15'
+identifiers:
+  gutenberg: '70290'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/102566325
+pgterms:marc905: 20230313052129author
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aUnited States :$bGINN & COMPANY, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The adventures of Hatim Taï, a romance
+url: http://www.gutenberg.org/ebooks/70290
